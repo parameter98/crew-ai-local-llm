@@ -31,3 +31,5 @@ Run CrewAI locally for free!
   - https://github.com/ollama/ollama/blob/main/docs/modelfile.md
 - Check out CrewAI's instructions for working with Ollama and running LLMs locally:
   - https://docs.crewai.com/how-to/LLM-Connections/#connect-crewai-to-llms
+
+## 현재 [serp](https://google.serper.dev/news) 링크로 가보면 unauthrized 됨, 무료 계정을 만들고 유효한 api 키로 변경할 필요가 있음. https://sec-api.io/ 의 API 또한 마찬가지로 API 키 변경할 것.
