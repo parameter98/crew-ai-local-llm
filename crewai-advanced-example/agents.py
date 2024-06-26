@@ -10,7 +10,7 @@ from langchain.tools.yahoo_finance_news import YahooFinanceNewsTool
 class StockAnalysisAgents():
   def __init__(self):
     self.llm = ChatOpenAI(
-      model="crewai-mistral",
+      model="crewAI-llava-llama3",
       base_url="http://localhost:11434/v1",
       api_key="NA"
     )
